@@ -1,4 +1,0 @@
-class Payment:
-
-    id = int
-
